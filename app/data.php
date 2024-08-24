@@ -127,7 +127,47 @@ $birds = [
                 "link" => "#",
             ],
         ],
-       
 
+    ],
+];
+
+$latest_birds = [
+    "title" => "LATEST BIRDS",
+    "single_bird" => [
+        [
+            "photo" => "https://nature-mentor.com/wp-content/uploads/2017/11/american-goldfinch.jpg",
+            "title" => "American Goldfinch",
+            "description" => "The American goldfinch (Spinus tristis) is a small North American bird in the finch family.
+            It is migratory, ranging from mid-Alberta to North Carolina during the breeding season, and from just south
+            of the Canada–United States border to Mexico during the winter.",
+            "button" => [
+                "text" => "Read More",
+                "link" => "#",
+            ],
+        ],
+        [
+            "photo" => "https://nature-mentor.com/wp-content/uploads/2017/11/American-Robin-Berries.jpg",
+            "title" => "American Robin",
+            "description" => "The American robin (Turdus migratorius) is a migratory bird of the true thrush genus and
+            Turdidae, the wider thrush family. It is named after the European robin[2] because of its reddish-orange
+            breast, though the two species are not closely related, with the European robin belonging to the Old World
+            flycatcher family.",
+            "button" => [
+                "text" => "Read More",
+                "link" => "#",
+            ],
+        ],
+        [
+            "photo" => "https://nature-mentor.com/wp-content/uploads/2017/11/Barn-Swallow.jpg",
+            "title" => "Barn Swallow",
+            "description" => "The barn swallow (Hirundo rustica) is the most widespread species of swallow in the world,
+            occurring on all continents, with vagrants reported even in Antarctica.[2][3] It appears to have the largest
+            natural distribution of any of the world's passerines, ranging over 251 million square kilometres
+            globally.",
+            "button" => [
+                "text" => "Read More",
+                "link" => "#",
+            ],
+        ],
     ],
 ];
