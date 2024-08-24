@@ -171,3 +171,27 @@ $latest_birds = [
         ],
     ],
 ];
+
+$testimonials = [
+    "title" => "TESTIMONIAL",
+    "single_testimonial" => [
+        [
+            "photo" => "https://i.pinimg.com/474x/b4/eb/3f/b4eb3f8f4910cffdc446713cf568ebaa.jpg",
+            "name" => "Nadia",
+            "description" => "It is a long established fact that a reader will be distracted by the readable cIt is a long
+            established fact that a reader will be distracted by the readable c ",
+        ],
+        [
+            "photo" => "https://i.pinimg.com/736x/2b/70/27/2b7027226bde7474f1b8f470c997fc54.jpg",
+            "name" => "Onu",
+            "description" => "It is a long established fact that a reader will be distracted by the readable cIt is a long
+            established fact that a reader will be distracted by the readable c ",
+        ],
+        [
+            "photo" => "https://i.pinimg.com/236x/2c/47/99/2c47992d48a75e7c8d64f4c37f420f6d.jpg",
+            "name" => "Senorita",
+            "description" => "It is a long established fact that a reader will be distracted by the readable cIt is a long
+            established fact that a reader will be distracted by the readable c ",
+        ],
+    ],
+];
